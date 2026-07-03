@@ -1,4 +1,4 @@
-# 💫 About Me:
+# => About Me:
 Frontend Development (React, JavaScript, Tailwind CSS,GSAP)<br>UI/UX Design & Responsive Interfaces<br>3D Modeling and Scene Design using Blender
 
 
